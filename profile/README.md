@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FFB020?style=for-the-badge&labelColor=07050E" alt="Status: in development">
-  <img src="https://img.shields.io/badge/HARNESS-RUST%20%C2%B7%20MIT-C8FF2E?style=for-the-badge&labelColor=07050E" alt="Harness: Rust, MIT">
-  <img src="https://img.shields.io/badge/NEEDS-PRO%20DJ%20LINK%20GEAR-FF2D95?style=for-the-badge&labelColor=07050E" alt="Needs Pro DJ Link gear">
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FF4A2B?style=for-the-badge&labelColor=0B0B0B" alt="Status: in development">
+  <img src="https://img.shields.io/badge/HARNESS-RUST%20%C2%B7%20MIT-F2F0EA?style=for-the-badge&labelColor=0B0B0B" alt="Harness: Rust, MIT">
+  <img src="https://img.shields.io/badge/NEEDS-PRO%20DJ%20LINK%20GEAR-A19E97?style=for-the-badge&labelColor=0B0B0B" alt="Needs Pro DJ Link gear">
 </p>
 
 <p align="center">
-  <a href="https://groove-guru.pages.dev"><b>site</b></a> ·
-  <a href="https://groove-guru.pages.dev/#step-1">try the drills</a> ·
-  <a href="https://groove-guru.pages.dev/llms.txt">llms.txt</a>
+  <a href="https://groove.guru"><b>site</b></a> ·
+  <a href="https://groove.guru/#step-1">try the drills</a> ·
+  <a href="https://groove.guru/llms.txt">llms.txt</a>
 </p>
 
 ---
